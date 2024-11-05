@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'popins',sans-serif;
+    scroll-behavior: smooth;
+    letter-spacing: 1px;
+}
+body{
+    background-color: black;
+    color: white;
+    
+}
+.background-image{
+    width: 100%;
+    height: 951px;
+    filter: brightness(33%);
+            }
+            
+ .logo-1{
+    position: absolute;
+    left: 150px;
+    bottom: 901px;
+ }      
+ .heading-1{
+    position: absolute;
+    left: 640px;
+    bottom: 498px;
+    font-size: 55px;
+    letter-spacing: 0%;
+ }   
+ .buttons{
+    display: flex;
+ }
+ .btn-1:hover{
+   opacity: 0.7;
+ }
+ .btn-2:hover{
+   opacity: 0.7;
+ }
+ .btn-1:active{
+   background-color: lightgray;
+ }
+ .btn-1{
+    position: absolute;
+    left: 1500px;
+    bottom: 920px;
+ }
+ .btn-2{
+    background-color: rgb(160, 19, 19);
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+    border: none;
+    font-size: 14px;
+    position: absolute;
+    left: 1635px;
+    bottom: 920px;
+    
+ }
+ .header-2{
+    position: absolute;
+    left: 690px;
+    bottom: 462px;
+    font-size: 18px;
+    letter-spacing: 0%;
+ }
+ .header-3{
+   font-size: 16px;
+   position: absolute;
+   left: 642px;
+   bottom: 400px;
+   font-weight: normal;
+
+ }
+ .header-4{
+   position: absolute;
+   left: 700px;
+   bottom: 380px;
+
+   }
+
+   
+   .header-6{
+    position: absolute;
+    left: 640px;
+    bottom: 320px;    
+
+   }
+   .header-7{
+      position:absolute;
+      left: 1020px;
+      bottom: 320px;
+   }
+   .header-11{
+      position: absolute;
+      bottom: 1px;
+   }
+   .header-13{
+      position: absolute;
+      left: 109px;
+      bottom: -53px;
+      background-color: black;
+   }
+   .header-14{
+      position: absolute;
+      bottom: -375px;
+      background-color: black;
+   }
+   .header-16{
+      position: absolute;
+      bottom: -390px;
+      left: 105px;
+      font-size: 10px;
+   }
+   .header-18{
+      position: absolute;
+      bottom: -648px;
+      left: 102px;
+   }
+   .header-20
+{
+   position: absolute;
+   bottom: -720px;
+   left: 100px;
+   font-size: 9px;
+}
+.header-27{
+   position: absolute;
+   bottom: -1296px;
+   left: 80px;
+}
+.header-30{
+   position: absolute;
+   bottom: -1370px;
+   left: 480px;
+   font-size: 6px;
+
+}
+
+.header-36{
+   position: absolute;
+   left: 340px;
+   bottom: -1441px;    
+}
+.header-40{
+   position: absolute;
+   bottom: -1510px;
+   left: 93px;
+}
+.footer-list{
+   position: absolute;
+   bottom: -1670px;
+   left: 93px;
+   font-size: 12px;
+   text-decoration: underline rgb(248, 236, 215);
+   list-style: none;
+}
+.footer-2{
+   position: absolute;
+   bottom: -1875px;
+   left: 60px;
+
+}
